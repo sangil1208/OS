@@ -1,4 +1,4 @@
-# Operating System - Implementation with C on Linux
+# Operating System - C/Linux
 
 0. Implementation of Stack with List Head
 
